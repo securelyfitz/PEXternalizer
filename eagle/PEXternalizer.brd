@@ -75,6 +75,7 @@ https://github.com/securelyfitz/PEXternalizer</text>
 joefitz@securinghardware.com
 @securelyfitz
 213.373.4892</text>
+<wire x1="0" y1="23" x2="49.5" y2="23" width="0.254" layer="22" style="shortdash"/>
 </plain>
 <libraries>
 <library name="con-pci_express%28pci-e%29">
@@ -975,10 +976,10 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="U$2" pad="6"/>
 <wire x1="31" y1="31.5" x2="33.3476" y2="34" width="0.1524" layer="1"/>
 <wire x1="33.3476" y1="43.43686875" x2="33.3476" y2="34" width="0.1524" layer="1"/>
-<wire x1="33.3476" y1="43.43686875" x2="31.93446875" y2="44.85" width="0.1524" layer="1"/>
+<wire x1="33.3476" y1="43.43686875" x2="31.94446875" y2="44.76" width="0.1524" layer="1"/>
 <contactref element="3.3V1" pad="A17"/>
-<wire x1="31.93446875" y1="44.85" x2="30.55" y2="44.85" width="0.1524" layer="1"/>
-<wire x1="30.55" y1="44.85" x2="28.95" y2="43.25" width="0.1524" layer="1"/>
+<wire x1="31.94446875" y1="44.76" x2="30.56" y2="44.76" width="0.1524" layer="1"/>
+<wire x1="30.56" y1="44.76" x2="28.95" y2="43.25" width="0.1524" layer="1"/>
 <wire x1="28.95" y1="43.25" x2="28.6" y2="43.25" width="0.1524" layer="1"/>
 <wire x1="28.35" y1="44.25" x2="28.35" y2="43.5" width="0.1524" layer="1"/>
 <wire x1="28.35" y1="43.5" x2="28.6" y2="43.25" width="0.1524" layer="1"/>
